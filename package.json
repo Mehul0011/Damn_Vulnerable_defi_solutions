@@ -1,10 +1,6 @@
 {
   "version": "3.0.0",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tinchoabbate/damn-vulnerable-defi.git"
-  },
   "scripts": {
     "unstoppable": "yarn hardhat test test/unstoppable/unstoppable.challenge.js",
     "truster": "yarn hardhat test test/truster/truster.challenge.js",
